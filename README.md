@@ -12,7 +12,7 @@ Website
 Education
 ---------
 
-20142018
+2014 - 2018
 :	*Bachelor of Education, Computer Engineering*    
 	Birla Vishwakarma Mahavidhyalaya  
 	CGPA: 7.78 
