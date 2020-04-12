@@ -62,5 +62,7 @@ Other activities
 Other interests
 ---------------
 Photography, Video Editing, Graphics Design
+
+
 ------
 > [LinkedIn](https://www.linkedin.com/in/vivek-bariya/) <br />
