@@ -48,9 +48,9 @@ Databases
 
 Projects
 ------------
-Name | Description | Preview
+Name | Description | Technology Stack | Preview
 ----|----|----
-[FyloPage](https://github.com/superneutrino8/FyloPage) | Manage landing page design. Coding challenge by Frontend Mentor. | [Live](https://superneutrino8.github.io/FyloPage/)
+[FyloPage](https://github.com/superneutrino8/FyloPage) | Manage landing page design. Coding challenge by Frontend Mentor. | HTML, CSS, JavaScript | [Live](https://superneutrino8.github.io/FyloPage/)
 
 Languages
 ---------
