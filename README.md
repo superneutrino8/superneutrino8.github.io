@@ -48,7 +48,7 @@ Databases
 
 Projects
 ------------
-Name | Description | GitHub Repo | Link
+Name | Stargazers | Description
 ----|----|----
 [ajn123/CV](https://github.com/ajn123/CV) | 13 | My resume in Latex
 [cies/resume](https://github.com/cies/resume) | 261 | My resume as a PDF including the well commented LaTeX source and build instructions.
