@@ -43,7 +43,7 @@ Languages
 :	HTML, CSS, JavaScript, React, SQL
 
 Databases
-:	MySQL, PostreSQL, MongoDB
+:	MySQL, PostreSQL
 
 
 Projects
