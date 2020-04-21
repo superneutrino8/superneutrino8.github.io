@@ -72,7 +72,7 @@ Other activities
 
 Other interests
 ---------------
-Photography, Video Editing, Graphics Design
+Graphics Design, [Photography](https://www.instagram.com/superneutrino8/), Video Editing
 
 
 ------
