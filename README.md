@@ -59,8 +59,8 @@ Name | Description | Technology Stack | Preview
 
 Languages
 ---------
-English
-Gujarati
+English, 
+Gujarati, 
 Hindi
 
 
