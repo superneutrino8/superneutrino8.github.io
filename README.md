@@ -40,7 +40,7 @@ Experience
 IT Strengths
 ------------
 Languages
-:	HTML, CSS, JavaScript, React, SQL
+:	HTML, CSS, JavaScript, React
 
 Databases
 :	MySQL, PostreSQL
