@@ -46,7 +46,7 @@ Databases
 :	MySQL, PostreSQL
 
 Tools
-:	Adobe XD, Figma, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects
+:	Adobe XD, Figma, Webflow, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects
 
 
 Projects
