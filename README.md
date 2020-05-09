@@ -70,7 +70,7 @@ Hindi
 Other activities
 ----------------
 2017-2018
-:	*Photograohy Club Leader*  
+:	*Photography Club Leader*  
 	Managed Photography Club during last year of college
 
 Other interests
