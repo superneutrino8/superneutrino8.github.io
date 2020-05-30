@@ -40,10 +40,10 @@ Experience
 IT Strengths
 ------------
 Languages
-:	HTML, CSS, JavaScript, React
+:	HTML, CSS, JavaScript, React, NodeJS, Express
 
 Databases
-:	MySQL, PostreSQL
+:	MySQL, PostgreSQL, MongoDB, Firebase
 
 Tools
 :	Adobe XD, Figma, Webflow, Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe After Effects
@@ -58,6 +58,7 @@ Name | Description | Technology Stack | Preview
 [MINIMA](https://github.com/superneutrino8/Minima-CSS_Grid) | CSS Grid Showcase | HTML, CSS, JavaScript | [Live](https://superneutrino8.github.io/Minima-CSS_Grid/)
 [RellaxLanding](https://github.com/superneutrino8/RellaxLanding) | Parallax Landing Page using Rellax.js | HTML, CSS, JavaScript, Rellax.js | [Live](https://superneutrino8.github.io/RellaxLanding/)
 [Advice App](https://github.com/superneutrino8/advice-app) | Advice app using React showcasing React Fetch API. | HTML, CSS, JavaScript, React | [Live](https://superneutrino8.github.io/advice-app/)
+[Catch Of The Day](https://github.com/superneutrino8/catch-of-the-day) | Catch Of The Day - Fish Store using React. | HTML, CSS, JavaScript, React, React Router, Firebase | [Live](https://catch-the-fish-superneutrino8.netlify.app/)
 
 
 Languages
