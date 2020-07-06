@@ -40,7 +40,7 @@ Experience
 IT Strengths
 ------------
 Languages
-:	HTML, CSS, JavaScript, React, NodeJS, Express
+:	HTML, CSS, JavaScript, React, NodeJS, Express, PassportJF, Moongose
 
 Databases
 :	MySQL, PostgreSQL, MongoDB, Firebase
@@ -59,7 +59,7 @@ Name | Description | Technology Stack | Preview
 [RellaxLanding](https://github.com/superneutrino8/RellaxLanding) | Parallax Landing Page using Rellax.js | HTML, CSS, JavaScript, Rellax.js | [Live](https://superneutrino8.github.io/RellaxLanding/)
 [Advice App](https://github.com/superneutrino8/advice-app) | Advice app using React showcasing React Fetch API. | HTML, CSS, JavaScript, React | [Live](https://superneutrino8.github.io/advice-app/)
 [Catch Of The Day](https://github.com/superneutrino8/catch-of-the-day) | Catch Of The Day - Fish Store using React. | HTML, CSS, JavaScript, React, React Router, Firebase | [Live](https://catch-the-fish-superneutrino8.netlify.app/)
-
+[Dang That's Delicious](https://github.com/superneutrino8/dang-thats-delicious) | Dang That's Delicious - Restaurants Finder/Review using Node. | Node, PUG, Express, Passport, Mongoose, MongoDB | [Live](https://dangg-thats-delicious.herokuapp.com/)
 
 Languages
 ---------
